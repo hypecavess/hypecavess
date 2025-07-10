@@ -4,14 +4,13 @@
 
 ### Programming languages
 
-![C#](https://img.shields.io/badge/C#-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-3178C6?logo=typescript&logoColor=orange&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-3178C6?logo=typescript&logoColor=blue&style=for-the-badge)
 
 ### Web dev
 
