@@ -23,12 +23,17 @@
 <h3>Nothinger, INC.</h3>
 <p>
 Project development and improvement company with the widest range of services in Türkiye.
+‎
 </p>
 
 </td>
 <td width="45%" align="center">
 
 <img src="assets/nothinger.png" alt="Nothinger" width="300"/>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
