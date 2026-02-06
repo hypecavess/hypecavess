@@ -1,68 +1,53 @@
 <div align="center">
-
-  <img
-    src="./assets/hypecaves-text.png"
-    alt="hypecaves"
-    width="420"
+  <a href="https://instagram.com/hypecavess">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/hypecaves-text.png"
   />
-  <p>
-    <strong>Front-End Engineer</strong> · MERN Stack · Network Protocols<br/>
-    <strong>UI/UX Designer</strong> · Product & System Thinking
-  </p>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="assets/hypecaves-text-light.png"
+  />
+  <img
+    alt="HypeCaves"
+    src="assets/hypecaves-text.png"
+    height="128"
+  />
+</picture>
 
-<div align="center">
-
-  <a href="https://nothingerr.com" style="text-decoration:none;">
-    <img
-      alt="Founder of Nothinger"
-      src="https://img.shields.io/badge/FOUNDER%20OF%20NOTHINGER-000000.svg?style=for-the-badge&labelColor=000000&logo=https://nothingerr.com/brand/other/discord.svg"
-    />
   </a>
 
-  <a href="https://nothingerr.com" style="text-decoration:none;">
-    <img
-      alt="Front-End Engineer"
-      src="https://img.shields.io/badge/FRONT--END-ENGINEER-0A66FF.svg?style=for-the-badge&labelColor=000000"
-    />
-  </a>
-
-  <a href="https://nothingerr.com" style="text-decoration:none;">
-    <img
-      alt="UI UX Designer"
-      src="https://img.shields.io/badge/UI%20%2F%20UX-DESIGNER-0A66FF.svg?style=for-the-badge&labelColor=000000"
-    />
-  </a>
+<a href="https://nothingerr.com"><img alt="Founder of Nothinger" src="https://img.shields.io/badge/FOUNDER%20OF%20NOTHINGER-000000.svg?style=for-the-badge&labelColor=000"></a>
+<a href="https://nothingerr.com/@hypecaves"><img alt="Front-End Engineer" src="https://img.shields.io/badge/FRONT/END%20ENGINEER-000000.svg?style=for-the-badge&labelColor=000"></a>
+<a href="https://instagram.com/hypecavess"><img alt="Follow on Instagram" src="https://img.shields.io/badge/@hypecavess-blueviolet.svg?style=for-the-badge&logo=Instagram&labelColor=000000&logoWidth=20"></a>
 
 </div>
 
-</div>
+<div>‎ </div>
+<div>‎ </div>
 
-<hr/>
+<div>
 
-<section>
-
-<h2>What I Do</h2>
-
-<p>
-I build <strong>production-grade web products</strong> where
-<strong>frontend engineering</strong>, <strong>design systems</strong>,
-and <strong>network-aware architectures</strong> meet.
-</p>
-
-<p>
-My work is opinionated, system-oriented, and designed to scale —
-visually, technically, and organizationally.
-</p>
-
-<hr/>
-
-<div align="center">
+  <h2 align="center">What I Do?‎‎ '24 "52 `08</h2>
 
   <p>
-    <a href="https://nothingerr.com">Website</a> ·
-    <a href="https://github.com/nothingerr">Organization</a>
+  * I design and engineer <strong>high-quality, production-ready web products</strong>
+    with a strong focus on <strong>front-end architecture</strong>,
+    <strong>design systems</strong>, and <strong>network-aware application design</strong>.
   </p>
 
-  <sub>No noise. No buzzwords. Just systems that work.</sub>
+  <p>
+  * My expertise lies in building interfaces that are not only visually refined,
+    but also <strong>scalable, maintainable, and system-driven</strong>.
+    I approach every product as a long-term system rather than a short-lived interface.
+  </p>
+  
+  <p>
+  * As the founder of <strong>Nothinger</strong>, I build and maintain
+    systems that prioritize <strong>developer experience</strong>,
+    <strong>visual coherence</strong>, and <strong>engineering standards</strong>,
+    often operating behind private infrastructures by design.
+  </p>
 
 </div>
