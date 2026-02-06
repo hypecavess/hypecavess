@@ -1,14 +1,6 @@
 <div align="center">
   <a href="https://instagram.com/hypecavess">
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/hypecaves-text.png"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="assets/hypecaves-text-light.png"
-  />
   <img
     alt="HypeCaves"
     src="assets/hypecaves-text.png"
